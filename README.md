@@ -37,13 +37,13 @@
 
 ![screenshot](https://res.cloudinary.com/dicn2ueb2/image/upload/v1633992461/Challenges/404_not_found_v6ij4r.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
+In this demo you can see a small 404 error page that is optimized for mobile.
+
+During this little exercise I had fun reviewing basic topics and remembering how I started learning.
+
+I think I need to review the basics so I never forget the basics of everything.
 
 
 ## Features
